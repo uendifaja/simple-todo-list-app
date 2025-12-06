@@ -7,9 +7,7 @@ Features include adding tasks, selecting categories, marking tasks as completed,
 
 ## 🚀 Live Demo
 
-Frontend:
-
-Backend:
+Frontend (Netlify link): https://uendi-simple-todo-list.netlify.app/
 
 ---
 
